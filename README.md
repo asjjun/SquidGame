@@ -11,7 +11,7 @@
  
 ## 환경 설정
      코드 상으로 pthread를 사용하는데 윈도우 환경에서도 pthread를 사용하고 싶다면 파일 다운로드 필요
-     아래 사진과 같은 경로(C:\)에 다운받은 pthread 파일 넣기
+     아래 사진과 같이 (C:\)경로에 다운받은 pthread 파일 넣기
 
    <img width="450px" src="https://user-images.githubusercontent.com/29851772/199258011-919c859f-bca3-4544-8937-8d62c6eb17fa.png">
    
