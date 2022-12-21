@@ -1,5 +1,0 @@
-﻿  TugOfWar.c
-E:\대학교 프로젝트 모음\3-2 SquidGame\squidgame\sample\TugOfWar.c(154,9): warning C4477: 'printf' : 서식 문자열 '%4.1F'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-E:\대학교 프로젝트 모음\3-2 SquidGame\squidgame\sample\TugOfWar.c(97): warning C4716: 'input_f': 값을 반환해야 합니다.
-  소스.cpp
-  sample.vcxproj -> E:\대학교 프로젝트 모음\3-2 SquidGame\squidgame\x64\Debug\sample.exe
