@@ -3,7 +3,7 @@
 <p align="center">
 <img width="500px" src="https://user-images.githubusercontent.com/29851772/209011490-05bb86ec-b1d3-4d11-8952-e4679aba01b5.png">
 <br>
-<img src="https://img.shields.io/badge/C-4479A1?style=flat-square&logo=C&logoColor=#A8B9CC"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </p>
 
 
